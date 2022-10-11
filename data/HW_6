@@ -1,0 +1,9 @@
+COLUMN #1: GENUS- each specimens taxonomic genus.
+COLUMN #2: SPECIES- each specimens taxonomic species.
+COLUMN #3: REF_NUM- the reference number used for each specimen.
+COLUMN #4: SUBFAM- the taxonomic subfamily for each specimen.
+COLUMN #5: TRIBE- the taxonomic tribe for each specimen.
+COLUMN #6: FOSSIL- if each was or was not a fossil.
+COLUMN #7: MIN_MA- minimum mass for each specimen.
+COLUMN #8: MAX_MA- maximum mass for each specimen.
+COLUMN #9: NOTES- any additional field notes.
