@@ -179,7 +179,7 @@ gitcreds_set()
 2) Push your changes to github (10 pts)
 
 ```
-In the gIT TAB, SELECT
+In the Git tab, select porjects, and hit Commit. Push from there.
 ```
 
 
